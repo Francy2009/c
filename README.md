@@ -1,1 +1,1 @@
-# c-
+In questa repostery puoi trovare tutti i miei piccoli lavoretti in c++, dei piccoli programmi fatti per scuola
